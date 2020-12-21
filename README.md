@@ -38,6 +38,8 @@ General information on how to do additional services and some additional example
 * [Portainer Service for DDEV](docker-compose-services/portainer)
 * [PostgreSQL](docker-compose-services/postgres/)
 * [RabbitMQ](docker-compose-services/rabbitmq)
+* [Search API Solr Cloud](docker-compose-services/search_api_solr-cloud)
+* [Search API Solr NLP Cloud](docker-compose-services/search_api_solr_nlp-cloud)
 * [redis](docker-compose-services/redis)
 * [redis-commander](docker-compose-services/redis-commander)
 * [TYPO3 Solr Integration](docker-compose-services/typo3-solr)
